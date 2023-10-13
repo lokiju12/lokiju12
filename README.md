@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/이름-색상코드?style=스타일&logo=로고명&logoColor=로고색"/>
+
+
+
+
 <!--
 **lokiju12/lokiju12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
